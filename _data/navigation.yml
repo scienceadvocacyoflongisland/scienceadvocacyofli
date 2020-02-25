@@ -8,7 +8,7 @@ main:
   - title: "Contact Us"
     url: /contact/
     sublinks:
-      -  title: FAQ
+      -  title: "FAQ"
       url: /faq/
   - title: "Tags"
     url: /tags/
