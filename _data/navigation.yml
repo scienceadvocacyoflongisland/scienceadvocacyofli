@@ -5,5 +5,7 @@ main:
     url: /events/
   - title: "Resources"
     url: /resources/
+  - title: "Contact Us"
+    url: /contact/
   - title: "Tags"
     url: /tags/
