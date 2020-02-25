@@ -7,8 +7,5 @@ main:
     url: /resources/
   - title: "Contact Us"
     url: /contact/
-    sublinks:
-      - title: "FAQ"
-      url:  /faq/
   - title: "Tags"
     url: /tags/
