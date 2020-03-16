@@ -114,6 +114,8 @@ defaults:
 category_archive:
   type: liquid
   path: /categories/
+  author_profile: false
 tag_archive:
   type: liquid
   path: /tags/
+  author_profile: false
