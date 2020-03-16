@@ -11,7 +11,7 @@ header:
       url: "/about/"
 excerpt: "We bring together scientists and supporters of science from all backgrounds to advocate for scientific education and legislation."
 feature_row:
-  - image_path: assets/images/homepage/eventsExample.jpg
+  - image_path: assets/images/homepage/eventsExample.png
     alt: "Next Event"
     title: "Next Event"
     excerpt: "Our next upcoming event is blah blah blah on whenever at some place"
@@ -25,9 +25,11 @@ feature_row:
     url: "/resources/"
     btn_label: "View Resources"
     btn_class: "btn--primary"
-  - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
-    title: "Placeholder 3"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: /assets/images/homepage/news.jpg
+    title: "Latest News"
+    excerpt: "Latest blog post from us here at SALI"
+    btn_label: "Latest Post"
+    btn_class: "btn--primary"
 feature_row2:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     alt: "placeholder image 2"
