@@ -3,14 +3,12 @@ layout: splash
 permalink: /splash-page/
 date: 2016-03-23T11:48:41-04:00
 header:
-  overlay_filter: "0.5"
+  overlay_filter: "0.75"
   overlay_image: /assets/images/homepage/longislandSplash.png
   actions:
     - label: "Learn More"
       url: "/about/"
 excerpt: "Science Advocacy of Long Island (SALI) brings together scientists and supporters of science from all backgrounds to advocate for scientific education and legislation."
-intro: 
-  - excerpt: 'Nullam suscipit et nam, tellus velit pellentesque at malesuada, enim eaque. Quis nulla, netus tempor in diam gravida tincidunt, *proin faucibus* voluptate felis id sollicitudin. Centered with `type="center"`'
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
@@ -52,8 +50,6 @@ feature_row4:
     btn_label: "Read More"
     btn_class: "btn--primary"
 ---
-
-{% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
 
