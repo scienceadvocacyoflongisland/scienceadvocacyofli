@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Welcome"
+title: ""
 permalink: /splash-page/
 date: 2016-03-23T11:48:41-04:00
 header:
@@ -9,7 +9,7 @@ header:
   actions:
     - label: "Learn More"
       url: "/about/"
-excerpt: "Science Advocacy of Long Island (SALI) brings together scientists and supporters of science from all backgrounds to advocate for scientific education and legislation."
+excerpt: "We bring together scientists and supporters of science from all backgrounds to advocate for scientific education and legislation."
 feature_row:
   - image_path: assets/images/unsplash-gallery-image-1-th.jpg
     alt: "placeholder image 1"
