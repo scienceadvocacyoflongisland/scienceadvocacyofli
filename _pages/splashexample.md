@@ -23,8 +23,8 @@ feature_row:
     title: "Resource Center"
     excerpt: "We've compiled a list of reputable resources on various topics you've asked about. We've also compiled resources for kids, as well as books, podcasts, and general items of interest."
     url: "/resources/"
-    btn_label: "Read More"
-    btn_class: "View Resources"
+    btn_label: "View Resources"
+    btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-3-th.jpg
     title: "Placeholder 3"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
