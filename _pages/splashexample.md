@@ -11,10 +11,12 @@ header:
       url: "/about/"
 excerpt: "We bring together scientists and supporters of science from all backgrounds to advocate for scientific education and legislation."
 feature_row:
-  - image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-    title: "Placeholder 1"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+  - image_path: assets/images/homepage/eventsExample.jpg
+    alt: "Next Event"
+    title: "Next Event"
+    excerpt: "Our next upcoming event is blah blah blah on whenever at some place"
+    btn_label: "More Info"
+    btn_class: "btn--primary"
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
     image_caption: "Image courtesy of [Unsplash](https://unsplash.com/)"
     alt: "placeholder image 2"
