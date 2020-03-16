@@ -4,7 +4,7 @@ title: ""
 permalink: /splash-page/
 date: 2016-03-23T11:48:41-04:00
 header:
-  overlay_filter: "0.75"
+  overlay_filter: "0.50"
   overlay_image: /assets/images/homepage/longislandSplash.png
   actions:
     - label: "Learn More"
@@ -12,8 +12,8 @@ header:
 excerpt: "We bring together scientists and supporters of science from all backgrounds to advocate for scientific education and legislation."
 feature_row:
   - image_path: assets/images/homepage/eventsExample.png
-    alt: "Next Event"
-    title: "Next Event"
+    alt: "Events"
+    title: "Events"
     excerpt: "Our next upcoming event is blah blah blah on whenever at some place"
     url: /events/
     btn_label: "More Info"

@@ -12,9 +12,9 @@ header:
 excerpt: "We bring together scientists and supporters of science from all backgrounds to advocate for scientific education and legislation."
 feature_row:
   - image_path: assets/images/homepage/eventsExample.png
-    alt: "Next Event"
-    title: "Next Event"
-    excerpt: "Our next upcoming event is blah blah blah on whenever at some place"
+    alt: "Events"
+    title: "Events"
+    excerpt: "See our upcoming and past events"
     url: /events/
     btn_label: "More Info"
     btn_class: "btn--primary"
