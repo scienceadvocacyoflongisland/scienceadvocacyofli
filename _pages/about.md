@@ -1,6 +1,6 @@
 ---
 permalink: /about/
-title: "About"
+title: "Our Mission"
 ---
 
 SALI brings together scientists and supporters of science from all backgrounds to advocate for scientific education and legislation and to encourage public engagement with science.
