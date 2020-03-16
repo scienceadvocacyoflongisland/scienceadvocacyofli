@@ -27,7 +27,8 @@ feature_row:
     btn_class: "btn--primary"
   - image_path: /assets/images/homepage/news.jpg
     title: "Latest News"
-    excerpt: "Latest blog post from us here at SALI"
+    excerpt: "Latest blog post from us here at SALI!"
+    url: "/posts/"
     btn_label: "Latest Post"
     btn_class: "btn--primary"
 feature_row2:
