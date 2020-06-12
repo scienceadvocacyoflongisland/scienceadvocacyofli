@@ -18,20 +18,13 @@ feature_row0:
     url: /events/
     btn_label: "More Info"
     btn_class: "btn--primary"
+feature_row2:
   - image_path: /assets/images/homepage/resourceCenter.jpg
     alt: "Resource Center"
     title: "Resource Center"
     excerpt: "We've compiled a list of reputable resources on various topics you've asked about. We've also compiled resources for kids, as well as books, podcasts, and general items of interest."
     url: "/resources/"
     btn_label: "View Resources"
-    btn_class: "btn--primary"
-feature_row2:
-  - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-    title: "Placeholder Image Left Aligned"
-    excerpt: 'This is some sample content that goes here with **Markdown** formatting. Left aligned with `type="left"`'
-    url: "#test-link"
-    btn_label: "Read More"
     btn_class: "btn--primary"
 feature_row3:
   - image_path: /assets/images/unsplash-gallery-image-2-th.jpg
@@ -51,9 +44,9 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="feature_row0" type="center"%}
+{% include feature_row id="feature_row0" type="left"%}
 
-{% include feature_row id="feature_row2" type="left" %}
+{% include feature_row id="feature_row2" type="right" %}
 
 {% include feature_row id="feature_row3" type="right" %}
 
