@@ -10,7 +10,7 @@ header:
     - label: "Learn More"
       url: "/about/"
 excerpt: "We bring together scientists and supporters of science from all backgrounds to advocate for scientific education and legislation."
-feature_row:
+feature_row0:
   - image_path: assets/images/homepage/eventsExample.png
     alt: "Events"
     title: "Events"
@@ -51,7 +51,7 @@ feature_row4:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row %}
+{% include feature_row id="feature_row0" type="center"%}
 
 {% include feature_row id="feature_row2" type="left" %}
 
