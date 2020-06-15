@@ -4,7 +4,7 @@ title: " "
 permalink: /
 hidden: true
 header:
-  overlay_filter: "0.20"
+  overlay_filter: "0.60"
   overlay_image: "./assets/images/homepage/longislandSplash.png"
   actions:
     - label: "Learn More"
