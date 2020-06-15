@@ -2,7 +2,6 @@
 layout: splash
 permalink: /
 hidden: true
-title: "SALI"
 header:
   overlay_filter: "0.20"
   overlay_image: "./assets/images/homepage/longislandSplash.png"
@@ -33,4 +32,4 @@ feature_row0:
     btn_class: "btn--primary"
 ---
 
-{% include feature_row id="feature_row0" type="left" %}
+{% include feature_row id="feature_row0" %}
