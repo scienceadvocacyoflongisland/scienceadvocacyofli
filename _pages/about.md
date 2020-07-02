@@ -14,14 +14,14 @@ Help secure funding and other resources for science education and scientific res
 Promote and safeguard scientific integrity and ethics.
 To accomplish these goals, we will develop and promote initiatives that will educate and engage the general public, students, and the scientific community on health, environmental, and science policy issues.
 
-#Meet the Team
+# Meet the Team
 # Miriam Fein
 Champion health and environmental policies supported by evidence-based science.
 Help secure funding and other resources for science education and scientific research.
 Promote and safeguard scientific integrity and ethics.
 To accomplish these goals, we will develop and promote initiatives that will educate and engage the general public, students, and the scientific community on health, environmental, and science policy issues.
 
-#Jeremiah Bautista
+# Jeremiah Bautista
 Champion health and environmental policies supported by evidence-based science.
 Help secure funding and other resources for science education and scientific research.
 Promote and safeguard scientific integrity and ethics.
