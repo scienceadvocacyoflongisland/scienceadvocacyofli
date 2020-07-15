@@ -5,7 +5,7 @@ permalink: /
 hidden: true
 header:
   overlay_image: "./assets/images/homepage/longislandSplash.png"
-  overlay_filter: rgba(83, 42, 117, 0.75)
+  overlay_filter: rgba(83, 42, 117, 0.6)
   actions:
     - label: "Learn More"
       url: "/aboutsali/"
