@@ -3,7 +3,7 @@ permalink: /aboutsali/
 title: "About SALI"
 toc: true
 toc_label: "About Us"
-toc_sticky:true
+toc_sticky: true
 ---
 
 ## <u>Our Mission</u>
