@@ -1,7 +1,7 @@
 ---
 permalink: /about/
 title: "About SALI"
-layout: single
+layout: posts
 toc: true
 toc_label: "About Us"
 ---
