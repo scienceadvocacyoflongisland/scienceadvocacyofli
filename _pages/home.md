@@ -8,7 +8,7 @@ header:
   overlay_image: "./assets/images/homepage/longislandSplash.png"
   actions:
     - label: "Learn More"
-      url: "/about/"
+      url: "/aboutsali/"
 excerpt: "We bring together scientists and supporters of science from all backgrounds to advocate for scientific education and legislation."
 feature_row0:
   - image_path: "./assets/images/homepage/eventsExample.png"
