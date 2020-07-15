@@ -9,10 +9,10 @@ SALI brings together scientists and supporters of science from all backgrounds t
 
 Working at local, state, and federal levels, our goals are to:
 
-Champion health and environmental policies supported by evidence-based science.
-Help secure funding and other resources for science education and scientific research.
-Promote and safeguard scientific integrity and ethics.
-To accomplish these goals, we will develop and promote initiatives that will educate and engage the general public, students, and the scientific community on health, environmental, and science policy issues.
+- Champion health and environmental policies supported by evidence-based science.
+- Help secure funding and other resources for science education and scientific research.
+- Promote and safeguard scientific integrity and ethics.
+- To accomplish these goals, we will develop and promote initiatives that will educate and engage the general public, students, and the scientific community on health, environmental, and science policy issues.
 
 # Meet the Team
 ## Dr. Miriam R. Fein
@@ -26,3 +26,4 @@ To accomplish these goals, we will develop and promote initiatives that will edu
 **Director of Technology and Multimedia Communications**
 
 ![image-right](/assets/images/biophotos/JeremiahBautista.png){: .align-right} Jeremiah earned his B.A. from [Stony Brook University](http://www.stonybrook.edu/) in Economics. While not a true science, economics is often referred to  as the "dismal science" by those who study it. Jeremiah first became of a fan of science when he and his family would watch the original Star Trek TV series as well as Star Trek: The Next Generation. The setting of those shows, a utopian society that humanity achieved through their understanding of the sciences, is something that still resonates with him today. He currently works as the sole Systems Administrator for several medical practices. In his spare time you will likely find him running the beautiful trails throughout New York.
+
