@@ -14,7 +14,7 @@ feature_row0:
   - image_path: "./assets/images/homepage/eventsExample.png"
     alt: "Events"
     title: "Events"
-    excerpt: "Our next upcoming event is blah blah blah on whenever at some place"
+    excerpt: "See information about upcoming and past SALI events"
     url: "/events/"
     btn_label: "More Info"
     btn_class: "btn--primary"
