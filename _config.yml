@@ -28,7 +28,8 @@ markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 logo: "./assets/images/SALI-A.png"
-masthead_title: "Science Advocacy of L.I."
+masthead_title: "Science Advocacy"
+subtitle: "Of Long Island"
 
 # Outputting
 permalink: /:categories/:title/
