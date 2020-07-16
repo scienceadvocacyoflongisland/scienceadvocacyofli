@@ -1,6 +1,6 @@
 ---
 permalink: /newstest/
-Title:"News and Twitter feed"
+Title: "News and Twitter feed"
 ---
 
 test
