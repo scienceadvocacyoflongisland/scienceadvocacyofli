@@ -1,6 +1,7 @@
 ---
 permalink: /aboutsali/
 title: "About SALI"
+search: true
 toc: true
 toc_label: "About Us"
 toc_sticky: true
