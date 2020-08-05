@@ -11,7 +11,7 @@ toc_sticky: true
 
 We've compiled a list of reputable resources on various topics you've asked about. We'll continue to edit and expand these resources as needed. 
 
-# Citizen Science
+## Citizen Science
 
 Citizen science (CS) also known as crowd science, crowd-sourced science, civic science, volunteer monitoring or networked science) is scientific research conducted, in whole or in part, by amateur (or nonprofessional) scientists.
 
@@ -24,7 +24,7 @@ Citizen science (CS) also known as crowd science, crowd-sourced science, civic s
 - **[The Zooniverse - People Powered Research](https://www.zooniverse.org/)**
   The Zooniverse is the world's largest and most popular platform for people-powered research. This research is made possible by volunteers—hundreds of thousands of people around the world who come together to assist professional researchers. At the Zooniverse, anyone can be a researcher.
 
-# Climate Change
+## Climate Change
 
 Climate Change is a change in global or regional climate patterns, in particular a change apparent from the mid to late 20th century onwards and attributed largely to the increased levels of atmospheric carbon dioxide produced by the use of fossil fuels.
 
@@ -67,7 +67,7 @@ Climate Change is a change in global or regional climate patterns, in particular
 - **Weather: [Two Broadcast Meteorologists Working to Separate the Real from the Fake](http://blogs.agu.org/wildwildscience/2016/12/16/two-broadcast-meteorologists-working-separate-real-fake/)** - [American Geophysical Union (AGU) Blogosphere](http://blogs.agu.org/), Dan Satterfield
   In recent years, the topic of GLOBAL WARMING can stir up deep emotions within viewers and can bring some rather rough responses via e-mail and Facebook. TV meteorologists is often asked to provide their viewers with insight and explanations on earthquakes, meteors and comets, tsunamis and volcanoes. For many Americans, we are as close to a scientist as they will get, and they invite us into their living rooms.
 
-# Genetics and Evolution
+## Genetics and Evolution
 
 Genetics is the study of genes, genetic variation, and heredity — how the characteristics of living things are transmitted from one generation to the next. **Evolution** is the change in the heritable characteristics of biological populations over successive generations. Evolutionary processes give rise to tremendous biodiversity of species, individual organisms, and molecules.
 
@@ -92,7 +92,7 @@ Genetics is the study of genes, genetic variation, and heredity — how the char
 - **[Your Inner Fish](http://www.pbs.org/your-inner-fish)**
   How did your body become the complicated, quirky, amazing machine it is today? Anatomist Neil Shubin uncovers the answers in this new look at human evolution. Using fossils, embryos and genes, he reveals how our bodies are the legacy of ancient fish, reptiles and primates — the ancestors you never knew were in your family tree.
 
-# Genetic Engineering, Food, and Farming
+## Genetic Engineering, Food, and Farming
 
 Genetic Engineering (GE), also called Genetic Modification (GM), is the direct manipulation of an organism's genome using biotechnology. It is a set of technologies used to change the genetic makeup of cells, including the transfer of genes within and across species boundaries to produce improved or novel organisms. GE is widely used in scientific research, and is used to produce medications as well as genetically modified crops used in agriculture.
 
@@ -123,7 +123,7 @@ Genetic Engineering (GE), also called Genetic Modification (GM), is the direct m
 
 *** Industry-sponsored site.** While these sites report information that is consistent with the scientific consensus and published evidence, it is important to note their sponsorship for full transparency.
 
-# Health and Disease
+## Health and Disease
 
 Health is the level of functional and metabolic efficiency of a living organism. In humans it is the ability of individuals or communities to adapt and self-manage when facing physical, mental, psychological and social changes. A **disease** is a particular abnormal condition, a disorder of a structure or function, that affects part or all of an organism. The study of disease is called pathology which includes the study of cause.
 
@@ -152,7 +152,7 @@ Health is the level of functional and metabolic efficiency of a living organism.
 - **[WebMD](http://www.webmd.com/)**
   WebMD provides valuable health information, tools for managing your health, and support to those who seek information. You can trust that our content is timely and credible.
 
-# Physics
+## Physics
 
 Physics is the natural science that involves the study of matter and its motion and behavior through space and time, along with related concepts such as energy and force. One of the most fundamental scientific disciplines, the main goal of physics is to understand how the universe behaves.
 
@@ -169,7 +169,7 @@ Physics is the natural science that involves the study of matter and its motion 
 - ***[Symmetry](http://www.symmetrymagazine.org/)***
   *Symmetry* is an online magazine about world of particle physics. Hear the latest news, meet the people behind the science, and get the background information you need to gain fluency in the language of particle physics. *Symmetry* is a joint publication of [Fermi National Accelerator Laboratory](http://www.fnal.gov/) and [SLAC National Accelerator Laboratory](https://www6.slac.stanford.edu/). Symmetry receives funding through the [US Department of Energy](http://www.energy.gov/).
 
-# Radiofrequency
+## Radiofrequency
 
 Radiofrequency (RF) is any of the electromagnetic wave frequencies that lie in the range extending from around 3 kHz to 300 GHz, which include those frequencies used for communications or radar signals. RF usually refers to electrical rather than mechanical oscillations. However, mechanical RF systems do exist (ie mechanical filter and RF MEMS).
 
@@ -194,7 +194,7 @@ Although radiofrequency is a rate of oscillation, the term "radiofrequency" or i
 - **[The Sun and Other Types of Radiation: Cellular Phone Towers](https://www.cancer.org/cancer/cancer-causes/radiation-exposure/cellular-phone-towers.html)** - [American Cancer Society](https://www.cancer.org/)
   Some people have expressed concern that living, working, or going to school near a cell phone tower might increase the risk of cancer or other health problems. At this time, there is very little evidence to support this idea. In theory, there are some important points that would argue against cellular phone towers being able to cause cancer.
 
-# Vaccines
+## Vaccines
 
 A vaccine is a biological preparation that provides active acquired immunity to a particular disease. A vaccine typically contains an agent that resembles a disease-causing microorganism and is often made from weakened or killed forms of the microbe, its toxins or one of its surface proteins. The agent stimulates the body's immune system to recognize the agent as a threat, destroy it, and recognize and destroy any of these microorganisms that it later encounters.
 
@@ -227,3 +227,257 @@ A vaccine is a biological preparation that provides active acquired immunity to 
   This resource covers topics such as: what are human papillomaviruses, which cancers are caused by HPV, who gets HPV infections, can HPV infections be prevented, what HPV vaccines are available, who should get the HPV vaccines, how do HPV vaccines work, and more.
 - **[HPV (Human Papillomavirus) Vaccine: What You Need to Know (VIS)](https://www.healthychildren.org/English/safety-prevention/immunizations/Pages/HPV-Gardasil-9-What-You-Need-to-Know.aspx)** - [Healthychildren.org](http://www.healthychildren.org/), [American Academy of Pediatrics](https://www.aap.org/)
   HPV vaccine prevents infection with human papillomavirus (HPV) types that are associated with many cancers, including: Cervical cancer in females, Vaginal and vulvar cancers in females, Anal cancer in females and males, Throat cancer in females and males, Penile cancer in males. In addition, HPV vaccine prevents infection with HPV types that cause genital warts in both females and males.
+
+## For Kids
+
+Some good science resources for kids in various mediums.
+
+### Books
+
+Look for these books in your local library, pick up a copy from a local bookstore or online.
+
+- *I am Albert Einstein* - by Brad Meltzer
+- *Me...Jane* - by Patrick McDonnell
+- [*Scientists in the Field* Series](http://www.sciencemeetsadventure.com/books/)
+- *Team Moon* - by Catherine Thimmesh
+- *The Way Things Work Now* - David Macaulay
+
+### Online and General Resources
+
+- **[A Mighty Girl](http://www.amightygirl.com/)**
+  The world's largest collection of books and movies for smart, confident, and courageous girls.
+- **[Brain POP](https://www.brainpop.com/)**
+  BrainPOP was founded in 1999 by [Dr. Avraham Kadar](http://blogs.ubc.ca/etec522sept11/2011/09/26/avraham-kadar-the-brains-behind-brainpop/) as a creative way to explain difficult concepts to his young patients. Today, they are a trusted learning resource supporting core and supplemental subjects, reaching millions of learners worldwide. Brain POP topics cover STEM, Social Studies, Reading/Writing, English, Health, and the Arts.
+- **[Crash Course Kids](https://www.youtube.com/user/crashcoursekids)** series on [YouTube](https://www.youtube.com/).
+- **[Frontiers for Young Minds](http://kids.frontiersin.org/)**
+  Frontiers for Young Minds provides a collection of freely available scientific articles by distinguished scientists that are shaped for younger audiences by the input of their own young peers.
+- **[History of The Wheel](https://store.intellaliftparts.com/c/history-of-the-wheel.html)**
+  Imagine a world without wheels. We would have to find an alternative way to drive our vehicles around, our steering "wheels" would likely be steering "squares," and we wouldn't even be able to fly to our destinations in the same way anymore. After all, airplanes have to taxi into position before taking off. The wheel is considered to be one of the oldest and most important inventions in the world. *(Thanks to Emily and Melissa in Ms. Martin's class for this suggestion!)*
+- **[Kahn Academy](https://www.khanacademy.org/)**
+  You can learn anything. For free. For everyone. Forever. Our mission is to provide a free, world-class education to anyone, anywhere. Classes include: Math by subject, Math by grade, Science and Engineering, Computing, Arts and Humanities, Economics and Finance, Test prep, College, careers, and more.
+- **[Ready Jet Go!](http://pbskids.org/readyjetgo/)** - interactive site and television show [PBS Kids](http://pbskids.org/)
+  A Kids Place is Exploring Space! Learn about astronomy, technology, the scientific method and earth science, presented in an entertaining and engaging way.
+- **[Science Friday](https://www.sciencefriday.com/)** - with Ira Flatow
+  Covering the outer reaches of space to the tiniest microbes in our bodies, Science Friday is the source for entertaining and educational stories about science, technology, and other cool stuff.
+- **[Sid the Science Kid](http://pbskids.org/sid/)** - interactive site and television show [PBS Kids](http://pbskids.org/)
+  Watch video, sing songs, and play games with Sid while you explore preschool science.
+- **[ViHart](https://www.youtube.com/channel/UCOGeU-1Fig3rrDjhm9Zs_wg)** - YouTube channel
+  Math, science, music and doodling. Series include: Pi and Anti-Pi, Hexaflexagons, Doodling in Math Class, Thanksgiving: Edible Math, Mathemusician Stuff, The Infinite Series, and more.
+
+### Podcasts
+
+- **[But Why?: A Podcast for Curious Kids](http://digital.vpr.net/programs/why-podcast-curious-kids#stream/0)**
+  Hosted by Jane Lindholm, this podcast from Vermont Public Radio is a podcast where your kids burning science questions get answered by experts in a manner that is fun and digestible for all ages. A great way to pass the time during those long family car rides to Grandma's!
+
+### TV and Video
+
+- **Bill Nye the Science Guy**
+  - [Bill Nye the Science Guy](https://www.netflix.com/title/80046944) television series (1993 - 1998)
+  - [Bill Nye Saves the World](https://www.netflix.com/title/80117748) on [Netflix](https://www.netflix.com/)*
+  - [Bill Nye The Science Guy](https://billnye.com/) website
+  - [Official YouTube Channel](https://www.youtube.com/user/TheRealBillNye)
+
+- **Carl Sagan**
+  [Cosmos: A Personal Voyage](https://www.youtube.com/playlist?list=PLBA8DC67D52968201) - television Series (1980) available on [YouTube](https://www.youtube.com/) via [The Science Foundation](https://www.youtube.com/user/TheScienceFoundation)
+
+- **Neil deGrasse Tyson**
+  Cosmos: A Spacetime Odyssey (Television Series)
+  - [Amazon](https://www.amazon.com/Cosmos-Spacetime-Neil-deGrasse-Tyson/dp/B00IWULQQ2) - DVD/BluRay
+  - [Amazon Prime Video](https://www.amazon.com/Cosmos-Spacetime-Odyssey-Season-1/dp/B00IJL0CB4) *
+  - [Hulu](https://www.hulu.com/cosmos-a-spacetime-odyssey) *
+  - [Netflix](https://www.netflix.com/title/80004448) *
+  - [Nationalgeographic.com](http://channel.nationalgeographic.com/cosmos-a-spacetime-odyssey/)
+
+
+
+**Stephen Jay Gould**
+
+- Race: The Power of an Illusion
+
+  - TV Series documentary (2003)
+
+  Episode: 
+
+  - **The Difference Between Us**
+
+- **Evolution** - TV Mini-Series documentary (2002)
+
+- **Life Beyond Earth** - TV Movie documentary (1998)
+
+- **The Sterilization of Leilani Muir** - Documentary (1996)
+
+- **Charlie Rose** - TV Series (1996)
+
+- A Glorious Accident
+
+   
+
+  \- TV Mini-Series documentary (1993)
+
+  Episodes:
+
+  - Stephen Jay Gould: Unanswerable Questions
+  - Rupert Sheldrake: Revolution or Sidetrack?
+  - Oliver Sacks: Migrain
+
+- **Dinosaur!**- TV Mini-Series documentary (1991)
+
+- **The Tale of a Feather** (1991)
+
+- **The Clive James Interview** - TV Series (1991)
+
+- The Infinite Voyage
+
+  \- TV Series documentary (1989)
+
+  Episode:
+
+  - **The Great Dinosaur Hunt**
+
+- **Paradox on 72nd Street** - TV Movie documentary (1982)
+
+- The World About Us
+
+  \- TV Series documentary (1980)
+
+  Episode:
+
+  - **The Trouble with Evolution...**
+
+## Books
+
+Some recommended reading. Look for these books in your local library, pick up a copy from a local bookstore or online.
+
+- *A Short History of Nearly Everything* – Bill Bryson
+- *An Anthropologist on Mars* – Oliver Sacks
+- *Big Oyster: History on the Half Shell* – Mark Kurlansky
+- *Cod: A Biography of a Fish That Changed the World* – Mark Kurlansky
+- *Crucibles: The Story of Chemistry from Ancient Alchemy to Nuclear Fission* - Bernard Jaffe
+- *Death By Black Hole: And Other Cosmic Quandries* – Neil DeGrasse Tyson
+- *Evolution: Making Sense of Life* - Carl Zimmer
+- *[Golden Guides](http://us.macmillan.com/series/agoldenguidefromstmartinspress)* - [MacMillian](http://us.macmillan.com/), [St. Martin's Press](https://us.macmillan.com/smp/) Science and Nature books from the St. Martin's Press division of MacMillian publising
+- *Gotham Unbound: The Ecological History of Greater New York* - Ted Steinberg
+- *Grunt: The Curious Science of Humans at War* - Mary Roach
+- *In Suspect Terrain* – John McPhee
+- *Intelligent Thought: Science Versus the Intelligent Design Movement* - John Brockman
+- *Isaac's Storm: A Man, a Time, and the Deadliest Hurricane in History* – Erik Larson
+- *Light: A Radiant History from Creation to the Quantum Age* - Bruce Watson
+- *Mendeleyev's Dream: The Quest for the Elements* – Paul Strathern
+- *Musicophilia* - Oliver Sacks
+- *Napoleon's Buttons: How 17 Molecules Changed History* – Penny LeCouteur
+- *Nature Wars: The Incredible Story of How Wildlife Comebacks Turned Backyards into Battlegrounds* – Jim Sterba
+- *Nature's Building Blocks: An A-Z Guide to the Elements* – John Emsley
+- *Newton* - Peter Ackroyd
+- *Quantum Physics for Poets* - Christopher T. Hill and Leon M. Lederman
+- *Running Silver: Restoring Atlantic Rivers and Their Great Fish Migrations* - John Waldman
+- *Science Desk Reference*
+- *Secret Agents: The Menace of Emerging Infections* – Madeline Drexler
+- *The 13th Element: The Sordid Tale of Murder, Fire, and Phosphorus* – John Emsley
+- *The Beak of the Finch: A Story of Evolution in Our Time* - Jonathan Weiner
+- *The Big Burn: Teddy Roosevelt and the Fire that Saved America* – Timothy Egan
+- *The Clockwork Universe* - Edward Dolnick
+- *The Disappearing Spoon: And Other True Tales of Madness, Love, and the History of the World from the Periodic Table of the Elements* – Sam Kean
+- *The Elements of Murder: A History of Poison* – John Emsley
+- *The Ghost Hunters: William James and the Hunt for Scientific Proof of Life After Death* – Deborah Blum
+- *The Great Influenza: The Story of the Deadliest Pandemic in History* – John Barry
+- *The Jasons: The Secret History of Science's Postwar Elite* – Ann Finkbeiner
+- *The Jesuit and the Skull* – Amir Aczel
+- *The Man Who Mistook His Wife for a Hat* – Oliver Sacks
+- *The Origin of Species* – Charles Darwin
+- *The Poisoner's Handbook: Murder and the Birth of Forensic Medicine in Jazz Age New York* – Deborah Blum
+- *The Science of Kissing* - Sheril Kirshenbaum
+- *The Science of Paintings* - James W. Mayer
+- *The Thing Explainer* - Randall Munroe
+- *The Way Things Work Now* - David Macaulay
+- *The Worst Hard Time: The Untold Story of Those Who Survived the Great American Dust Bowl* – Timothy Egan
+- *What The Simpsons can Teach us About Science* - Paul Halpern
+- *Your Inner Fish* – Neil Shubin
+- *Zero: The Biography of a Dangerous Number* - Charles Seife
+
+## Podcasts
+
+Some recommended podcasts. Great for your commute, workout, or in general. All of these podcasts are available for free on iTunes, or any other podcast app. Note: downloading and streaming uses a lot of data, best to download them on WiFi for off-line listening later. Happy histening and learning!
+
+- **[60 Second Science](https://www.scientificamerican.com/podcast/60-second-science/)** - [Scientific American](https://www.scientificamerican.com/)
+  Tune in every weekday for quick reports and commentaries on the world of science — it'll just take a minute.
+- **[Base Pairs](http://labdish.cshl.edu/podcasts/)** – a [Cold Spring Harbor Lab](http://cshl.edu/) podcast
+  Each month, Base Pairs tells stories that convey the power of genetic information — past and present.
+- **[But Why?: A Podcast for Curious Kids](http://digital.vpr.net/programs/why-podcast-curious-kids#stream/0)**
+  Hosted by Jane Lindholm, this podcast from Vermont Public Radio is a podcast where your kids burning science questions get answered by experts in a manner that is fun and digestible for all ages. A great way to pass the time during those long family car rides to Grandma's! *
+- **[People Behind the Science](http://www.peoplebehindthescience.com/podcasts/)**
+  In each episode, a different scientist will guide us through their journey by sharing their successes, failures, and passions. We are excited to introduce you to these inspiring academic and industry experts from all fields of science to give you a variety of perspectives on the life and path of a scientist.
+- **[Radio Lab](http://www.radiolab.org/)** - [WNYC](http://www.wnyc.org/)
+  A beautifully produced podcast and radio show from [WNYC](http://www.wnyc.org/) that can also be heard weekly on your local [NPR](http://www.npr.org/) station. Though not currently releasing regular new episodes there is an impressive archive of fascinating science stories to consume on-line. You will fall in love with ying-and-yang hosts, Jad Abumrad and Robert Krulwich, as they weave their way through the science with the help of experts. If you enjoy this, you might also check out their new mini-series, More Perfect, which uses many of the same tools to take listeners through the fascinating and often surprisingly dramatic history of the Supreme Court. *
+- **[Science Friday](https://www.sciencefriday.com/listen/)**
+  Covering the outer reaches of space to the tiniest microbes in our bodies, Science Friday is the source for entertaining and educational stories about science, technology, and other cool stuff. You can isten to Science Friday live on Fridays from 2-4 p.m. ET.
+- **[Science Talk](https://www.scientificamerican.com/podcast/science-talk/)** - [Scientific American](https://www.scientificamerican.com/)
+  Join host [Steve Mirsky](https://www.scientificamerican.com/author/steve-mirsky/) ([@Steve Mirsky](https://twitter.com/SteveMirsky)) each week as he explores the latest developments in science and technology through interviews with leading scientists and journalists.
+- **[Science Vs.](https://gimletmedia.com/science-vs/)**
+  A fantastic podcast from Gimlet Media that tackles some of the most controversial and opinion filled topics by delving into the science. It is hosted by the delightful and enthusiastic Wendy Zuckerman, and has just released it's second season by reviewing all of the science behind the hot button talking points surrounding Immigration, and the unfortunately relevant to my life, issue of Acne. *
+- **[Star Talk Radio](https://www.startalkradio.net/)**
+  Hosted by beloved astrophysicist, Neil deGrasse Tyson ([@neiltyson](https://twitter.com/neiltyson)), explores the intersection of Pop Culture and Science. The show covers topics like the Big Bang, Space Exploration, and the future of Earth with the added spice of comedian co-hosts, celebrities, and brilliant scientists. *
+- **[Story Collider](https://www.storycollider.org/podcasts/)**
+  It was recently reported that a lot of Americans do not personally know a single scientist. Well, this podcast will introduce you to a diverse group of everyday scientists. In this The Moth style podcast, scientist tell moving and fascinating stories about their life and work with often intense passion and a personal touch. *
+- **[Talking Biotech](http://www.talkingbiotechpodcast.com/)**
+  An evidence-based discussion of genetic engineering (GMO), plant/animal domestication, breeding, and other genetic improvement hosted by [Dr. Kevin Folta](http://www.talkingbiotechpodcast.com/home/about-kevin-folta/).
+- **[The Naked Scientists](https://www.thenakedscientists.com/podcasts)**
+  Based at [Cambridge University](http://www.cam.ac.uk/)'s [Institute of Continuing Education (ICE)](http://www.ice.cam.ac.uk/), the Naked Scientists are a team of scientists, doctors and communicators whose passion is to help the general public to understand and engage with the worlds of science, technology and medicine. Created and launched in 2001 by [Chris Smith](https://www.thenakedscientists.com/users/chris-smith), the Naked Scientists was one of the first podcasts to exist and is now one of the world's most popular science shows, achieving over 50 million programme downloads in the last 5 years.
+- **[The Pulse](http://www.npr.org/podcasts/381443461/the-pulse)** - [NPR](http://www.npr.org/)
+  Go on a sonic adventure into unexpected corners of the health and science world each week with host [Maiken Scott](https://twitter.com/maikenscott?lang=en). Created by [WHYY](http://www.npr.org/podcasts/organizations/432) in Philadelphia.
+- **[You're the Expert](http://theexpertshow.com/)**
+  You're the Expert is a hilarious mash-up of science and comedy, presented in a Game Show format. Host, Chris Duffy, with the help of a panel of comedians, interviews a scientist each week to learn about their work, life, and whatever the curious panel might ask The Expert. 
+
+## General Resources
+
+Some good general science resources in various mediums.
+
+- **[A Mighty Girl](http://www.amightygirl.com/)**
+  The world's largest collection of books and movies for smart, confident, and courageous girls.
+
+- **[Alan Alda Center for Communicating Science at Stony Brook University](http://www.centerforcommunicatingscience.org/)**
+  The Alan Alda Center for Communicating Science empowers scientists and health professionals to communicate complex topics in clear, vivid, and engaging ways; leading to improved understanding by the public, media, patients, elected officials, and others outside of their own discipline.
+
+- **[Brain POP](https://www.brainpop.com/)**
+  BrainPOP was founded in 1999 by [Dr. Avraham Kadar](http://blogs.ubc.ca/etec522sept11/2011/09/26/avraham-kadar-the-brains-behind-brainpop/) as a creative way to explain difficult concepts to his young patients. Today, they are a trusted learning resource supporting core and supplemental subjects, reaching millions of learners worldwide. Brain POP topics cover STEM, Social Studies, Reading/Writing, English, Health, and the Arts.
+
+- **[Biointeractive](https://www.hhmi.org/biointeractive)** - [Howard Hughes Medical Institute (HHMI)](https://www.hhmi.org/)
+  At BioInteractive, you can find award-winning multimedia resources, including apps, animations, videos, interactives, and virtual labs, to bring the excitement of scientific discovery into your classroom. Their rich video resources range from a series of short films on evolution, hosted by an award-winning author-scientist, to lectures on the brain given by a Nobel-prize winner — all supplemented by teacher guides and classroom activities. Our team members include scientists, artists, and educational experts.
+
+- **[Breakthroughs & Horizons in Bioscience](http://faseb.org/Resources-for-the-Public/Breakthroughs-and-Horizons-in-Bioscience.aspx)** - [Federation of American Societies for Experimental Biology (FASEB)](http://faseb.org/)
+  The *Breakthroughs in Bioscience* series illustrates recent breakthroughs in biomedical research and their importance to society. It also highlights the important role animal models play in biomedical research and discovery.
+
+- **[Fact-Checking Science](http://thehappyscientist.com/content/fact-checking-science)** - [The Happy Scientist](http://thehappyscientist.com/)
+  With so much focus on the availability of science information in the news, The Happy Scientist, Robert Krampf, shares some of his science fact checking articles and videos.
+
+- **[Golden Guides](http://us.macmillan.com/series/agoldenguidefromstmartinspress)** - [MacMillian](http://us.macmillan.com/), [St. Martin's Press](https://us.macmillan.com/smp/) Science and Nature books from the St. Martin's Press division of MacMillian publishing.
+
+- **[Informal Science](http://www.informalscience.org/)**
+  The Center for Advancement of Informal Science Education (CAISE) works in cooperation with the [National Science Foundation's (NSF) Advancing Informal Science Technology Engineering and Math (STEM) Learning (AISL) Program](http://www.informalscience.org/projects/funding/nsf-aisl) to build and advance the informal STEM education field by providing infrastructure, resources and connectivity for educators, researchers, evaluators, and other interested stakeholders. CAISE also convenes inquiry groups, workshops and principal investigator meetings designed to facilitate discussion and identify the needs and opportunities for informal STEM learning practitioners working in media (TV, radio, film, social), science centers and museums, zoos and aquariums, parks, botanical gardens and nature centers, events and festivals, libraries, making and tinkering spaces, cyberlearning and gaming,and youth, community, and out-of-school time programs.
+
+- **[Nature Outlooks](http://www.nature.com/news/outlooks-1.16103)** - *[Nature](http://www.nature.com/)*
+  *Nature Outlooks* tackle topics of scientific, clinical and societal interest, giving a comprehensive picture of the current state of knowledge and the hottest areas of research. They present news features written by top science journalists and commentary pieces from leading academic and industry thinkers. A Nature Outlook might focus on a disease, technological innovation or a field of particularly intense scientific progress. Outlooks target a generalist, scientifically literate audience, while maintaining Nature's strong evidence-based editorial values. As such, Outlooks offer a unique opportunity for sponsors to report their scientific advances in the pages of Nature alongside relevant, independent and accessible content.
+
+- **[Nobel Prize Winners](https://www.nobelprize.org/)**
+  The official web site of the Nobel Prize. The Nobel Prize is a set of annual international awards bestowed in several categories by Swedish and Norwegian institutions in recognition of academic, cultural or scientific advances.
+
+- **[Not Exactly Rocket Science](http://phenomena.nationalgeographic.com/blog/not-exactly-rocket-science/)** - [National Geographic](http://www.nationalgeographic.com/)
+  ***Note:\*** After 10 years, this blog was shut down 1/11/2017. However, all prior blog posts are still available to read.
+
+- **[Terrapin Bright Green](https://www.terrapinbrightgreen.com/)**
+  Terrapin Bright Green believes that reconnecting people with the environment (technology and nature) will lead to a healthy, prosperous, and regenerative future for all. We leverage high-performance design, whole systems thinking, and research in biophilic design, bioinspired innovation, and ecological design to make this goal a reality.
+
+- **[The Animated Life of A. R. Wallace](https://www.nytimes.com/video/opinion/100000002534565/the-animated-life-of-a-r-wallace.html)** - *[NYTimes.com](https://www.nytimes.com/)* [Op-Docs](https://www.nytimes.com/video/op-docs)
+  This animated short video illustrates the life of Alfred Russel Wallace, who independently formulated the theory independently conceiving the theory of evolution through natural selection. this series is a celebration of scientific pioneers and discoveries that changed the way we see the world. *
+
+- **[The Smithsonian](http://www.smithsonianmag.com/)**
+  *Smithsonian* magazine and Smithsonian.com place a Smithsonian lens on the world, looking at the topics and subject matters researched, studied and exhibited by the Smithsonian Institution — science, history, art, popular culture and innovation — and chronicling them every day for our diverse readership.
+
+  ### Twitter
+
+  - **[@realscientists](https://twitter.com/realscientists)**
+    Real science from real scientists, writers, communicators, artists and clinicians.
+
+  ### YouTube
+
+  - **[iceiceNaomi](https://www.youtube.com/channel/UCDbAshpMJK-vc1bJcsqBqug/videos)**
+    A peek into life as an oceanographer, on Antarctic research cruises.
