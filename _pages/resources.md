@@ -1,8 +1,10 @@
 ---
 permalink: /resources/
+title: "Resources"
 toc: true
 toc_label: "Resource List"
 toc_sticky: true
+
 ---
 
 
