@@ -90,6 +90,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://www.instagram.com/sciadvli/"
+    - label: "Youtube"
+      icon: "fab fa-youtube"
+      url: "https://www.youtube.com/channel/UCenQnnpxJDQncPzn0jq9yEQ"
 
 defaults:
   # _posts
