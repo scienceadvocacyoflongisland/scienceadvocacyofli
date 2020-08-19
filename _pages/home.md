@@ -4,7 +4,7 @@ title: " "
 permalink: /
 header:
   overlay_image: "./assets/images/homepage/longislandSplash.png"
-  overlay_filter: rgba(83, 42, 117, 0.65)
+  overlay_filter: rgba(83, 42, 117, 0.50)
   actions:
     - label: "Learn More"
       url: "/aboutsali/"
