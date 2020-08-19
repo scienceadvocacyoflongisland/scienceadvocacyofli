@@ -4,9 +4,5 @@
 
 @charset "utf-8";
 
-.site-logo img {
-  max-height: 6.5rem;
-}
-
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
