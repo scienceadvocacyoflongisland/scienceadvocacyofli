@@ -2,9 +2,13 @@
 permalink: /aboutsali/
 title: "About SALI"
 search: true
+layout: splash
 toc: true
 toc_label: "About Us"
 toc_sticky: true
+
+header:
+	overlay_image: "./assets/images/aboutusSplash.png"
 ---
 
 ## <u>Our Mission</u>
