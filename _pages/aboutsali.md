@@ -2,15 +2,13 @@
 permalink: /aboutsali/
 title: "About SALI"
 search: true
-layout: splash
-
-header:
- overlay_image: "/assets/images/aboutusSplash.png"
- 
 toc: true
 toc_label: "About Us"
 toc_sticky: true
 ---
+
+![full](/assets/images/aboutusSplash.png)
+{: .full}
 
 ## <u>Our Mission</u>
 SALI brings together scientists and supporters of science from all backgrounds to advocate for scientific education and legislation and to encourage public engagement with science.
