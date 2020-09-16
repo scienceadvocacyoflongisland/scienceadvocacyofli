@@ -11,21 +11,23 @@ header:
 ---
 
 ## <u>Our Mission</u>
-SALI brings together scientists and supporters of science from all backgrounds to advocate for scientific education and legislation and to encourage public engagement with science.
+SALI brings together scientists and supporters of science from all backgrounds to promote scientific communicationand encourage public engagement with science
 
-Working at local, state, and federal levels, our goals are to:
+## <u>Vision Statement</u>
 
-* Champion health and environmental policies supported by evidence-based science.
-* Help secure funding and other resources for science education and scientific research.
-* Promote and safeguard scientific integrity and ethics.
-* To accomplish these goals, we will develop and promote initiatives that will educate and engage the general public, students, and the scientific community on health, environmental, and science policy issues.
+Our goals are to: 
+
+1. Provide a reliable and trusted resource for scientific information for the localcommunity.
+2. Advocate for evidence-based policies locally and advance scientific education.
+
+To this end, we will buildup our online presence where we create content, share scientifically vetted information, amplify other scientists and science communicators, and continue outreach into the community. We will bring together voices from the scientific community to create spaces for public forums (virtual or in-person) on relevant scientific topics that impact the Long Island communityand the community at-large, and support and promote policies by local lawmakers that are evidence-based.
 
 ## <u>Meet the Team</u>
 ### Dr. Miriam R. Fein
 
 ***Founder & Executive Director***
 
-![image-left](/assets/images/biophotos/MiriamFein.png){: .align-left} Miriam earned her undergraduate degree from Queens College (CUNY) in Biology (2003), her Master’s degree from Hunter College (CUNY) in Molecular, Cellular, and Developmental Biology (2006), and completed her Ph.D. at Stony Brook University in Genetics (2016) under the guidance of Dr. Mikala Egeblad at Cold Spring Harbor Laboratory (CSHL). There, she discovered a novel mechanism of immune suppression in breast cancer, whereby CCR2 signaling in cancer cells suppresses immune control of tumors, in part by reducing CD103+ dendritic cell recruitment ([Cancer cell CCR2 orchestrates suppression of the adaptive immune response](https://rupress.org/jem/article/217/10/e20181551/151949/Cancer-cell-CCR2-orchestrates-suppression-of-the)). She served as the Reviews Editor at *Genes & Development* at CSHL Press before going back to the bench as a Postdoctoral Research Fellow in the lab of Dr. Semir Beyaz (CSHL), investigating the cellular and molecular mechanisms by which diet-induced obesity promotes cancer progression by altering the immune system. Miriam founded Science Advocacy of Long Island (SALI) in 2017, and is passionate about science communication and policy. Miriam lives in Plainview with her three children, Esther, Ezra, and Tehila. She is an avid trail runner who loves to run ultra-distances, competing in races up to 100 miles. 
+![image-left](/assets/images/biophotos/MiriamFein.png){: .align-left} Miriam earned her undergraduate degree from Queens College (CUNY) in Biology (2003), her Master’s degree from Hunter College (CUNY) in Molecular, Cellular, and Developmental Biology (2006), and completed her Ph.D. at Stony Brook University in Genetics (2016) under the guidance of Dr. Mikala Egeblad at Cold Spring Harbor Laboratory (CSHL). There, she discovered a novel mechanism of immune suppression in breast cancer, whereby CCR2 signaling in cancer cells suppresses immune control of tumors, in part by reducing CD103+ dendritic cell recruitment ([Cancer cell CCR2 orchestrates suppression of the adaptive immune response](https://rupress.org/jem/article/217/10/e20181551/151949/Cancer-cell-CCR2-orchestrates-suppression-of-the)). She served as the Reviews Editor at *Genes & Development* at CSHL Press before going back to the bench as a Postdoctoral Research Fellow in the lab of Dr. Semir Beyaz (CSHL), investigating the cellular and molecular mechanisms by which diet-induced obesity promotes cancer progression by altering the immune system. Miriam founded Science Advocacy of Long Island (SALI) in 2017, and is passionate about science communication and policy. Miriam lives in Plainview with her three children, Esther, Ezra, and Tehila. She is an avid trail runner who loves to run ultra-distances, and has completed races up to 100 miles. 
 
 ### Jeremiah Bautista
 
