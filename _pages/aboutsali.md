@@ -11,16 +11,16 @@ header:
 ---
 
 ## <u>Our Mission</u>
-SALI brings together scientists and supporters of science from all backgrounds to promote scientific communicationand encourage public engagement with science
+SALI brings together scientists and supporters of science from all backgrounds to promote scientific communication and encourage public engagement with science
 
 ## <u>Vision Statement</u>
 
 Our goals are to: 
 
-1. Provide a reliable and trusted resource for scientific information for the localcommunity.
+1. Provide a reliable and trusted resource for scientific information for the local community.
 2. Advocate for evidence-based policies locally and advance scientific education.
 
-To this end, we will buildup our online presence where we create content, share scientifically vetted information, amplify other scientists and science communicators, and continue outreach into the community. We will bring together voices from the scientific community to create spaces for public forums (virtual or in-person) on relevant scientific topics that impact the Long Island communityand the community at-large, and support and promote policies by local lawmakers that are evidence-based.
+To this end, we will buildup our online presence where we create content, share scientifically vetted information, amplify other scientists and science communicators, and continue outreach into the community. We will bring together voices from the scientific community to create spaces for public forums (virtual or in-person) on relevant scientific topics that impact the Long Island community and the community at-large, and support and promote policies by local lawmakers that are evidence-based.
 
 ## <u>Meet the Team</u>
 ### Dr. Miriam R. Fein
