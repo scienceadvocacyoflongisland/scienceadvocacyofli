@@ -5,6 +5,9 @@ toc: true
 toc_label: "Resource List"
 toc_sticky: true
 
+header:
+ image: /assets/images/resourceSplash.png
+
 ---
 
 We've compiled a list of reputable resources on various topics you've asked about. We'll continue to edit and expand these resources as needed. 
