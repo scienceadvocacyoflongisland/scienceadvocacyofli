@@ -11,7 +11,7 @@ header:
 
 <!--- old embed: {% include twitter.html %} --->
 
-<div align="center"><a class="twitter-timeline" data-chrome="transparent noheader nofooter" data-width="1000" data-dnt="true" href="https://twitter.com/SciAdvLI?ref_src=twsrc%5Etfw">SciAdvLI</a>
+<div align="center"><a class="twitter-timeline" data-chrome="transparent noheader nofooter" data-width="1000" data-dnt="true" data-tweet-limit="5" href="https://twitter.com/SciAdvLI?ref_src=twsrc%5Etfw">SciAdvLI</a>
 <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 </div>
 
