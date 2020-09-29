@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: " "
+title: "Science Advocacy of Long Island"
 permalink: /
 header:
   overlay_image: "./assets/images/homepage/longislandSplash.png"
