@@ -28,6 +28,7 @@ markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.20.1"
 minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 logo: "./assets/images/SALI-A.png"
+masthead_title: " "
 # masthead_title: "Science Advocacy"
 # subtitle: "of Long Island"
 
