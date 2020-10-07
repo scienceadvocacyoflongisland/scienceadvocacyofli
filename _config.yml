@@ -127,3 +127,9 @@ tag_archive:
   type: liquid
   path: /tags/
   author_profile: false
+  
+analytics:
+  provider: "google"
+  google:
+    tracking_id: "UA-180013407-1"
+    anonymize_ip: true # default
