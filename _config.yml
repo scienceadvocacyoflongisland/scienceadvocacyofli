@@ -21,7 +21,8 @@ baseurl: "/"
 twitter_username: sciadvli
 github_username: username
 minimal_mistakes_skin: default
-search: false
+search: true
+search_provider: google
 
 # Build settings
 markdown: kramdown
@@ -133,3 +134,6 @@ analytics:
   google:
     tracking_id: "UA-180013407-1"
     anonymize_ip: true # default
+    
+google:
+  search_engine_id: 0d21203be230736d5
