@@ -1,11 +1,11 @@
 main:
   - title: "About"
     url: /aboutsali/
-  - title: "Events"
-    url: /events/
   - title: "News"
     url: /news/
   - title: "Resources"
     url: /resources/
   - title: "Contact Us"
     url: /contact/
+  - title: "Events"
+    url: /events/
