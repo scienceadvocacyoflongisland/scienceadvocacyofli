@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Science Advocacy of Long Island
+title: " "
 email: info@scienceadvocacyli.org
 description: >- # this means to ignore newlines until "baseurl:"
   Science Advocacy of Long Island (SALI) brings together scientists and supporters of science from all backgrounds to advocate for scientific education and legislation.
