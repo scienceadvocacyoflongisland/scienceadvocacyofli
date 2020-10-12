@@ -8,8 +8,7 @@ header:
   actions:
     - label: "Learn More"
       url: "/aboutsali/"
-excerpt: "We bring together scientists and supporters of science from all backgrounds to advocate for scientific education and legislation."
-feature_row0:
+  excerpt: "We bring together scientists and supporters of science from all backgrounds to promote scientific communication and encourage public engagement with science.""
   - image_path: "./assets/images/homepage/eventsExample.png"
     alt: "Events"
     title: "Events"
