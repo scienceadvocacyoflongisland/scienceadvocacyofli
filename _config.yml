@@ -29,22 +29,22 @@ search_provider: google
 markdown: kramdown
 remote_theme: "mmistakes/minimal-mistakes@4.20.1"
 minimal_mistakes_skin    : "dirt" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
-logo: "/assets/images/SALI-A.png"
+logo: /assets/images/SALI-A.png
 masthead_title: " "
 # masthead_title: "Science Advocacy"
 # subtitle: "of Long Island"
 og_image: "/assets/images/defaultOpenGraph.jpg"
 
 # Outputting
-permalink: /:categories/:title/
-paginate: 3 # amount of posts to show
-paginate_path: /home/page:num/
+# permalink: /:categories/:title/
+# paginate: 3 # amount of posts to show
+# paginate_path: /home/page:num/
 timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 include:
   - _pages
 exclude:
-  - /pages/homecopy.md
+  - /_pages/homecopy.md
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
