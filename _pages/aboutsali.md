@@ -11,7 +11,7 @@ header:
 ---
 
 ## <u>Our Mission</u>
-SALI brings together scientists and supporters of science from all backgrounds to promote scientific communication and encourage public engagement with science
+SALI brings together scientists and supporters of science from all backgrounds to promote scientific communication and encourage public engagement with science.
 
 ## <u>Vision Statement</u>
 
