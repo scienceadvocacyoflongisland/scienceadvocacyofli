@@ -7,6 +7,7 @@ toc_sticky: true
 
 header:
  image: /assets/images/resourceSplash.png
+ caption: "Photo credit: [Unsplash](https://unsplash.com/photos/2JIvboGLeho)"
 
 ---
 

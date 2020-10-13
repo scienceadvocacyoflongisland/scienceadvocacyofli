@@ -6,6 +6,7 @@ masthead_title: "News"
 
 header:
  image: /assets/images/newsSplash.png
+ caption: "Photo credit: [Unsplash](https://unsplash.com/photos/Wj1D-qiOseE)""
 
 ---
 
