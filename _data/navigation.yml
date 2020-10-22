@@ -3,6 +3,8 @@ main:
     url: /aboutsali/
   - title: "News"
     url: /news/
+  - title: "Tweets"
+    url: /tweets/
   - title: "Resources"
     url: /resources/
   - title: "Contact Us"
