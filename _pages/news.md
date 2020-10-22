@@ -4,7 +4,6 @@ layout: home
 title: "SALI in the News"
 masthead_title: "News"
 classes: wide
-entries_layout: grid
 
 header:
  image: /assets/images/newsSplash.png
