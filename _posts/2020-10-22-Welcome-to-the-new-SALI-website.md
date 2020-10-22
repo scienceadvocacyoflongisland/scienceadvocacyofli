@@ -1,5 +1,8 @@
 ---
 title: "Welcome to the new SALI website"
+excerpt_separator: "<!--more-->"
+categories:
+  - Blog
 header:
 	image: /assets/images/defaultOpenGraph.jpg
 
