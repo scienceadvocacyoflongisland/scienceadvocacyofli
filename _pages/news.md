@@ -2,7 +2,8 @@
 permalink: /news/
 layout: home
 title: "SALI in the News"
-masthead_title: "News"
+entries_layout: grid
+
 classes: wide
 
 header:
