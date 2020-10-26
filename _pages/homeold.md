@@ -2,6 +2,7 @@
 layout: splash
 title: "Science Advocacy of Long Island"
 permalink: /homeold/
+sitemap: false
 header:
   overlay_image: /assets/images/homepage/longislandSplash.png
   overlay_filter: rgba(83, 42, 117, 0.50)
