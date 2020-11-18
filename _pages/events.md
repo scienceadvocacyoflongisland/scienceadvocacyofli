@@ -1,8 +1,8 @@
 ---
-title: events
+title: Events
 layout: collection
 permalink: /events/
-collection: Events
+collection: events
 entrie_layout: grid
 classes: wide
 ---
