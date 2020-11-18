@@ -104,9 +104,9 @@ footer:
 
 #collections
 collections:
-  - events:
-      output: true
-      permalink: /:collection/:path/
+ events:
+    output: true
+    permalink: /:collection/:path/
 
 defaults:
   # _posts
