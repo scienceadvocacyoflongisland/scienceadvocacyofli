@@ -1,8 +1,9 @@
 ---
+title: events
+layout: collection
 permalink: /events/
-title: Events
+collection: events
+entrie_layout: grid
+classes: wide
 ---
 
-### Coming Soon!
-
-For now visit [archive.org](https://www.archive.org) to see our past [Events](http://web.archive.org/web/20200118005607/http://www.scienceadvocacyli.org/events/past/)

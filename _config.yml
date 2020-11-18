@@ -67,6 +67,8 @@ plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
 
+
+
 #author:
 #  name   : "First Lastname"
 #  avatar : "/assets/images/bio-photo.jpg"
@@ -99,6 +101,12 @@ footer:
     - label: "Youtube"
       icon: "fab fa-youtube"
       url: "https://www.youtube.com/channel/UCenQnnpxJDQncPzn0jq9yEQ"
+
+#collections
+collections:
+  - events:
+      output: true
+      permalink: /:collection/:path/
 
 defaults:
   # _posts
