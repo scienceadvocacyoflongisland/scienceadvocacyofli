@@ -131,13 +131,13 @@ defaults:
       author_profile: false
       search: false
    #collections
-   - scope:
-       path: ""
-       type: events
-     values:
-        layout: single
-        author_profile: false
-        share: true
+  - scope:
+      path: ""
+      type: events
+    values:
+      layout: single
+      author_profile: false
+      share: true
 
 category_archive:
   type: liquid
