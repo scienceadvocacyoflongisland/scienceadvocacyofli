@@ -130,6 +130,13 @@ defaults:
       layout: single
       author_profile: false
       search: false
+   - scope:
+       path: ""
+       type: events
+     values:
+        layout: single
+        author_profile: false
+        share: true
 
 category_archive:
   type: liquid
