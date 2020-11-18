@@ -3,7 +3,7 @@ title: "A Matter of Saving Lives"
 collection: events
 date: 2018-11-11
 header: 
-  teaser: /assets/images/events/2018/gun-violence-in-schools/firearm-409252.png
+  image: /assets/images/events/2018/gun-violence-in-schools/firearm-409252.png
 
 gallery:
   - url: /assets/images/events/2018/gun-violence-in-schools/AMatterofSavingLives-3.jpg
