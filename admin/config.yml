@@ -19,5 +19,12 @@ collections:
       - {label: "Layout", name: "layout", widget: "hidden", default: "single"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Featured Image", name: "thumbnail", widget: "image"}
+      - {label: "Teaser Image", 
+         name: |-2 
+         "header: 
+           image",
+         widget: "image"}
+      - {label: "Banner Image", name: "  teaser", widget: "image"}    
+      
+        
       - {label: "Body", name: "body", widget: "markdown"}
