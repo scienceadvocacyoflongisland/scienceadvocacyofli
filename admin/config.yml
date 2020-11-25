@@ -20,9 +20,9 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Teaser Image",
-         name: ""header:\n  teaser"",
+         name: header:\n  teaser,
          widget: "image"}
-      - {label: "Banner Image", name: "  teaser", widget: "image"}    
+      - {label: "Banner Image", name:   teaser, widget: "image"}    
       
         
       - {label: "Body", name: "body", widget: "markdown"}
