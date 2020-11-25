@@ -21,8 +21,8 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Teaser Image",
          name: |
-         "header:
-           image", 
+           header:
+             image, 
         widget: "image"}
       - {label: "Banner Image", name: "  teaser", widget: "image"}    
       
