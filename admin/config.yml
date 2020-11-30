@@ -33,4 +33,5 @@ collections:
         widget: "object"
         fields:
           - { label: "Image 1 thumbnail", name: "- url", widget: "image", required: false }
+          - { label: "Image 1", name: "image_path", widget: "image" }
       - {label: "Body", name: "body", widget: "markdown"}
