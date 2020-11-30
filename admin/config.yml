@@ -25,4 +25,21 @@ collections:
         fields: 
           - {label: "Banner Image", name: "image", widget: "image" }
           - {label: "Teaser Image", name: "teaser", widget: "image" }
+      - label: "Gallery(Optional)"
+        name: "gallery"
+        required: false
+        widget: "object"
+        fields:
+          - { label: "Image 1 thumbnail", name: "- url", widget: "image", required: false }
+          - { label: "Image 1", name: "image_path", widget: "image" }
+          - { label: "Image 2 thumbnail", name: "- url", widget: "image", required: false }
+          - { label: "Image 2", name: "image_path", widget: "image" }
+          - { label: "Image 3 thumbnail", name: "- url", widget: "image", required: false }
+          - { label: "Image 3", name: "image_path", widget: "image" }
+          - { label: "Image 4 thumbnail", name: "- url", widget: "image", required: false }
+          - { label: "Image 4", name: "image_path", widget: "image" }
+          - { label: "Image 5 thumbnail", name: "- url", widget: "image", required: false }
+          - { label: "Image 5", name: "image_path", widget: "image" }
+          - { label: "Image 6 thumbnail", name: "- url", widget: "image", required: false }
+          - { label: "Image 6", name: "image_path", widget: "image" }
       - {label: "Body", name: "body", widget: "markdown"}
