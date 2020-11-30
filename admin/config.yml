@@ -22,6 +22,7 @@ collections:
       - label: "Banner and teaser images"
         name: "header"
         widget: "object"
+        fields: 
           - {label: "Banner Image", name: "image", widget: "image" }
           - {label: "Teaser Image", name: "teaser", widget: "image" }
       - {label: "Body", name: "body", widget: "markdown"}
