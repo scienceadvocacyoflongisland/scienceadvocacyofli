@@ -30,9 +30,8 @@ collections:
         name: "gallery"
         required: false
         collapsed: true
-        widget: "object"
+        widget: "list"
         fields:
-          - { label: "Image 1 thumbnail", name: "- url", widget: "image", required: false }
-          - { label: "Image 1", name: "image_path", widget: "image" }
-          - { label: "Image 2 thumbnail", name: "- url", widget: "image", required: false }
+          - { label: "Image Thumbnail", name: "- url", widget: "image", required: false }
+          - { label: "Image", name: "image_path", widget: "image" }
       - {label: "Body", name: "body", widget: "markdown"}
