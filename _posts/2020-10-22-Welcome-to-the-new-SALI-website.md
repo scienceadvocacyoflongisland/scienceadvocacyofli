@@ -3,6 +3,7 @@ title: Welcome to the new SALI website
 date: 2020-11-18T21:10:59.270Z
 header:
   image: /assets/images/defaultOpenGraph.jpg
+  teaser: /assets/images/defaultOpenGraph.jpg
 "header:\n image": /assets/images/defaultOpenGraph.jpg
 "  teaser": /assets/images/defaultOpenGraph.jpg
 ---
