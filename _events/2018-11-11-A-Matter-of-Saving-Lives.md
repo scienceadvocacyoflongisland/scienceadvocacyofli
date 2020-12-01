@@ -1,14 +1,13 @@
 ---
-title: "A Matter of Saving Lives"
+title: A Matter of Saving Lives
 collection: events
 date: 2018-11-11
-header: 
+header:
   image: /assets/images/events/2018/gun-violence-in-schools/firearm-409252.jpg
   teaser: /assets/images/events/2018/gun-violence-in-schools/firearm-409252.jpg
-
 gallery:
-#  - url: /assets/images/events/2018/gun-violence-in-schools/AMatterofSavingLives-3.jpg
-  -  image_path: /assets/images/events/2018/gun-violence-in-schools/thumb/AMatterofSavingLives-3.jpg
+  - image_path: /assets/images/events/2018/gun-violence-in-schools/thumb/AMatterofSavingLives-3.jpg
+    "- url": /assets/images/SALI-logo-square-mini-2.png
   - url: /assets/images/events/2018/gun-violence-in-schools/AMatterofSavingLives-4.jpg
     image_path: /assets/images/events/2018/gun-violence-in-schools/thumb/AMatterofSavingLives-4.jpg
   - url: /assets/images/events/2018/gun-violence-in-schools/AMatterofSavingLives-5.jpg
