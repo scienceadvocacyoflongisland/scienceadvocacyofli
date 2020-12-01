@@ -29,6 +29,7 @@ collections:
       - label: "Gallery(Optional)"
         name: "gallery"
         required: false
+        label_singular: Add Image
         collapsed: true
         widget: "list"
         fields:
