@@ -33,7 +33,7 @@ collections:
         collapsed: true
         widget: "list"
         fields:
-          - { label: "Image Thumbnail", name: "- url", widget: "image", required: false }
+          - { label: "Image Thumbnail", name: "-url", widget: "image", required: false }
           - { label: "Image", name: "image_path", widget: "image" }
       - {label: "Body", name: "body", widget: "markdown"}
     
@@ -62,6 +62,6 @@ collections:
         collapsed: true
         widget: "list"
         fields:
-          - { label: "Image Thumbnail", name: "- url", widget: "image", required: false }
+          - { label: "Image Thumbnail", name: "-url", widget: "image", required: false }
           - { label: "Image", name: "image_path", widget: "image" }
       - {label: "Body", name: "body", widget: "markdown"}
