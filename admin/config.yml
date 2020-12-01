@@ -15,7 +15,7 @@ collections:
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
     editor:
       preview: false
-    fields: # The fields for each document, usually in front matter
+    fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "single"}
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
@@ -36,3 +36,32 @@ collections:
           - { label: "Image Thumbnail", name: "- url", widget: "image", required: false }
           - { label: "Image", name: "image_path", widget: "image" }
       - {label: "Body", name: "body", widget: "markdown"}
+    
+  - name: "_events"
+    label: "Events"
+    folder: "_events"
+    create: true    
+    slug: "{{year}}-{{month}}-{{day}}-{{slug}}" # Filename template, e.g., YYYY-MM-DD-title.md
+    editor:
+      preview: false
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "single"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - label: "Banner and teaser images"
+        name: "header"
+        widget: "object"
+        fields: 
+          - {label: "Banner Image", name: "image", widget: "image" }
+          - {label: "Teaser Image", name: "teaser", widget: "image" }
+
+      - label: "Gallery(Optional)"
+        name: "gallery"
+        required: false
+        label_singular: Add Image
+        collapsed: true
+        widget: "list"
+        fields:
+          - { label: "Image Thumbnail", name: "- url", widget: "image", required: false }
+          - { label: "Image", name: "image_path", widget: "image" }
+      - {label: "Body", name: "body", widget: "markdown"
