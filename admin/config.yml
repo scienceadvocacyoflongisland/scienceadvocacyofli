@@ -29,7 +29,7 @@ collections:
       - label: "Gallery(Optional)"
         name: "gallery"
         required: false
-        label_singular: Add Image
+        label_singular: "Image"
         collapsed: true
         widget: "list"
         fields:
@@ -58,7 +58,7 @@ collections:
       - label: "Gallery(Optional)"
         name: "gallery"
         required: false
-        label_singular: Add Image
+        label_singular: "Image"
         collapsed: true
         widget: "list"
         fields:
