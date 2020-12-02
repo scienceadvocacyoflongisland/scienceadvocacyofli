@@ -5,7 +5,7 @@ backend:
   base_url: https://foam-pointy-woolen.glitch.me # change this to your OAuth server
   
 publish_mode: editorial_workflow
-media_folder: /assets/images/
+media_folder: /assets/images/2018/food-evolution-movie
 
 collections:
   - name: "_posts"
