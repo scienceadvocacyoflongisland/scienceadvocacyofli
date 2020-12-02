@@ -5,7 +5,27 @@ date: 2018-02-11T21:52:12.465Z
 header:
   image: /assets/images/food-evolution-squashed-GMO-organic-art.jpg
   teaser: /assets/images/food-evolution-squashed-GMO-organic-art.jpg
-gallery: []
+gallery:
+  - url: /assets/images/events/2018/food-evolution-movie/food-evoloution-fb31.jpg
+    image_path: /assets/images/events/2018/food-evolution-movie/food-evoloution-fb31.jpg
+  - url: /assets/images/events/2018/food-evolution-movie/food-evoloution-fb26.jpg
+    image_path: /assets/images/events/2018/food-evolution-movie/food-evoloution-fb26.jpg
+  - url: /assets/images/events/2018/food-evolution-movie/food-evoloution-fb18.jpg
+    image_path: /assets/images/events/2018/food-evolution-movie/food-evoloution-fb18.jpg
+  - url: /assets/images/events/2018/food-evolution-movie/food-evoloution-fb1b.jpg
+    image_path: /assets/images/events/2018/food-evolution-movie/food-evoloution-fb1b.jpg
+  - url: /assets/images/events/2018/food-evolution-movie/food-evoloution-fb1e.jpg
+    image_path: /assets/images/events/2018/food-evolution-movie/food-evoloution-fb1e.jpg
+  - url: /assets/images/events/2018/food-evolution-movie/food-evoloution-fb20.jpg
+    image_path: /assets/images/events/2018/food-evolution-movie/food-evoloution-fb20.jpg
+  - url: /assets/images/events/2018/food-evolution-movie/food-evoloution-fb21.jpg
+    image_path: /assets/images/events/2018/food-evolution-movie/food-evoloution-fb21.jpg
+  - url: /assets/images/events/2018/food-evolution-movie/food-evoloution-fb22.jpg
+    image_path: /assets/images/events/2018/food-evolution-movie/food-evoloution-fb22.jpg
+  - url: /assets/images/events/2018/food-evolution-movie/food-evoloution-fb23.jpg
+    image_path: /assets/images/events/2018/food-evolution-movie/food-evoloution-fb23.jpg
+  - url: /assets/images/events/2018/food-evolution-movie/food-evoloution-fb24.jpg
+    image_path: /assets/images/events/2018/food-evolution-movie/food-evoloution-fb24.jpg
 ---
 ![](/assets/images/events/2018/food-evolution-movie/food-evolution-logo.jpg)
 
