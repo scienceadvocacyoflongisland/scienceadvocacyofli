@@ -3,8 +3,13 @@ layout: single
 title: Ask the Scientists
 date: 2017-03-26T21:49:50.036Z
 header:
-  image: /assets/images/events/2018/powering-progress-perry-gershon/IMG_3678.jpg
-  teaser: /assets/images/events/2018/powering-progress-perry-gershon/IMG_3701.jpg
+  image: /assets/images/events/2017/ask-the-scientists/ask-the-scientists-image.jpg
+  teaser: /assets/images/events/2017/ask-the-scientists/questions-sqare.jpg
+gallery:
+  - url: /assets/images/events/2017/ask-the-scientists/01-ask-the-scientists-group-shot.jpg
+    image_path: /assets/images/events/2017/ask-the-scientists/01-ask-the-scientists-group-shot.jpg
+  - url: /assets/images/events/2017/ask-the-scientists/ask-the-scientists-group-shot-OG.jpg
+    image_path: /assets/images/events/2017/ask-the-scientists/ask-the-scientists-group-shot-OG.jpg
 ---
 Our first public event, Ask the Scientists, was held on Sunday, March 26 at the Suffolk Y JCC. We were supported by Action Together Long Island (ATLI), a group that works to bring about change through awareness and activism. Our goal was to begin to build communication between scientists and the community. We wanted to hear questions and concerns from our friends and neighbors about science-related issues so that we, the scientists, can help address them.
 
