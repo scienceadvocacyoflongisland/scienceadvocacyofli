@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/food-evolution-squashed-GMO-organic-art.jpg
 gallery: []
 ---
-![]()
+![](/assets/images/events/2018/food-evolution-movie/food-evolution-logo.jpg)
 
 On Sunday, February 11, 2018, we co-hosted an event with [Cold Spring Harbor Laboratory](https://www.cshl.edu/) to feature the new documentary called [Food Evolution](https://www.foodevolutionmovie.com/). The film viewing was followed by a panel discussion with plant scientists David Jackson, Ph.D., Zachary Lippman, Ph.D., Ullas Pedmale, Ph.D., and Doreen Ware, Ph.D. at the Cinema Arts Centre, in Huntington, NY.
 
