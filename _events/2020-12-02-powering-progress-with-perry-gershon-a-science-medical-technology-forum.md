@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Powering Progress With Perry Gershon: A Science, Medical & Technology Forum"
-date: 2020-12-02T22:41:53.583Z
+date: 2018-06-16T21:41:53.583Z
 header:
   image: /assets/images/events/2018/opioid-addiction-on-long-island/01-sali2.jpg
   teaser: /assets/images/events/2018/opioid-addiction-on-long-island/01-sali2.jpg
