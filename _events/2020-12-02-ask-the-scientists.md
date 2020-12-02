@@ -38,5 +38,46 @@ If you still have questions we haven't answered, feel free to email them to info
    - Remember a lot of fields are very complex — sometimes the experts are in agreement but many times they are not. There is a huge body of literature for many subjects, so one single paper may not be enough to draw conclusions from.
    - SALI will work to compile a reliable list of resources.
    - Ask a lot of questions — reach out to your friendly neighborhood scientists :-)
+Panelists
+
+Dr. Miriam Fein
+
+Reviews Editor at Genes & Development, Cold Spring Harbor Laboratory Press.
+
+Ashley Aleksey
+
+Analytical Chemist at Truetox Labs LLC. Conducts chemical analyses of drugs of abuse and therapy.
+
+Brandon Ashinoff
+
+Doctoral student in the School of Psychology at the University of Birmingham, UK. Studies the brain mechanisms involved in controlling attention and how they change with age.
+
+Dr. Jaclyn Novatt
+
+Assistant Professor at Long Island University School of Pharmacy. Studies drug resistance in HIV and how to improve science education.
+
+Casey Giordano
+
+High school earth science / biology / chemistry teacher. Worked for the EPA, FEMA, and as a field geologist for the U.S. Army Corps of Engineers for natural disaster emergency response.
+
+Abraham Kohrman
+
+Doctoral student at Stony Brook University. Studies how cells move between different tissues in the body, an important process for the immune system and for the spread of cancer.
+
+Dr. Russell Burke
+
+Professor of Biology at Hofstra University. Community ecologist researching vertebrate wildlife of Long Island.
+
+Dr. Sarah Gross
+
+Associate Professor of Biology and Curriculum Director of the Bioscience Program at Farmingdale State College. Conducts research on the life cycle of herpesviruses.
+
+Dr. Michael Feigin
+
+Post-doctoral fellow at Cold Spring Harbor Laboratory. Studies pancreatic cancer.
+
+Emilis Bruzas
+
+Doctoral student in the Watson School of Biological Sciences at Cold Spring Harbor Laboratory. Studies the connection between the immune system and relapsing breast cancer.
 
 {% include gallery %}
