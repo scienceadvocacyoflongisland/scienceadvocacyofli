@@ -3,8 +3,23 @@ layout: single
 title: "Powering Progress With Perry Gershon: A Science, Medical & Technology Forum"
 date: 2018-06-16T21:41:53.583Z
 header:
-  image: /assets/images/events/2018/opioid-addiction-on-long-island/01-sali2.jpg
-  teaser: /assets/images/events/2018/opioid-addiction-on-long-island/01-sali2.jpg
+  image: /assets/images/events/2018/powering-progress-perry-gershon/IMG_3678.jpg
+  teaser: /assets/images/events/2018/powering-progress-perry-gershon/IMG_9434.jpg
+gallery:
+  - url: /assets/images/events/2018/powering-progress-perry-gershon/IMG_3701.jpg
+    image_path: /assets/images/events/2018/powering-progress-perry-gershon/IMG_3701.jpg
+  - url: /assets/images/events/2018/powering-progress-perry-gershon/IMG_3671.jpg
+    image_path: /assets/images/events/2018/powering-progress-perry-gershon/IMG_3671.jpg
+  - url: /assets/images/events/2018/powering-progress-perry-gershon/IMG_3716.jpg
+    image_path: /assets/images/events/2018/powering-progress-perry-gershon/IMG_3716.jpg
+  - url: /assets/images/events/2018/powering-progress-perry-gershon/IMG_3722.jpg
+    image_path: /assets/images/events/2018/powering-progress-perry-gershon/IMG_3722.jpg
+  - url: /assets/images/events/2018/powering-progress-perry-gershon/IMG_3723.jpg
+    image_path: /assets/images/events/2018/powering-progress-perry-gershon/IMG_3723.jpg
+  - url: /assets/images/events/2018/powering-progress-perry-gershon/IMG_3733.jpg
+    image_path: /assets/images/events/2018/powering-progress-perry-gershon/IMG_3733.jpg
+  - url: /assets/images/events/2018/powering-progress-perry-gershon/IMG_9434.jpg
+    image_path: /assets/images/events/2018/powering-progress-perry-gershon/IMG_9434.jpg
 ---
 Perry Gershon, Democratic nominee for Congress in NY-01, held a panel discussion as a means to address the specific challenges regarding science and evidence-based policies facing communities in NY-01. Panelists included Dr. Steven Goldstein, President of Chapter 2 of the American Academy of Pediatrics; Dr. Miriam Fein, Executive Director, Science Advocacy of Long Island; Dr. Anne Gershon, Professor of Pediatrics, Columbia University Medical College and lead researcher in the development of the chicken pox vaccine; and Dr. Michael D. Gershon, author of The Second Brain and Chairman of the Department of Anatomy and Cell Biology at Columbia University. This was an engaging panel discussion that highlighted important issues such as funding for biomedical research, vaccines and public health, and environmental issues specific to Long Island.
 
