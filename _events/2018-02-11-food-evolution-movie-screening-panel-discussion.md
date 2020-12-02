@@ -1,7 +1,7 @@
 ---
 layout: single
 title: "Food Evolution: Movie Screening & Panel Discussion"
-date: 2018-02-11T21:52:12.465Z
+date: 2018-02-11
 header:
   image: /assets/images/events/2018/food-evolution-movie/food-evolution-logo.jpg
   teaser: /assets/images/events/2018/food-evolution-movie/food-evoloution-fb2d.jpg

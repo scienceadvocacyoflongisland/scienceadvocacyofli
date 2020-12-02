@@ -2,7 +2,7 @@
 layout: single
 title: "Opioid Addiction on Long Island: Evidence-based lessons on curbing the
   epidemic"
-date: 2018-03-22T21:28:11.159Z
+date: 2018-03-22
 header:
   image: /assets/images/events/2018/opioid-addiction-on-long-island/02-29543247.jpg
   teaser: /assets/images/events/2018/opioid-addiction-on-long-island/prescription-pills.jpg
