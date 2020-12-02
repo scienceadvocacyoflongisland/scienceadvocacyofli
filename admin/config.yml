@@ -31,11 +31,12 @@ collections:
         required: false
         label_singular: Image
         collapsed: true
+        hint: "Insert this code somewhere in main body: {% include gallery %}"
         widget: "list"
         fields:
-          - { label: "Image Thumbnail", name: "url", widget: "image", required: false }
-          - { label: "Image", name: "image_path", widget: "image" }
-      - {label: "Body", name: "body", widget: "markdown"}
+          - { label: "Main Image", name: "url", widget: "image", required: false }
+          - { label: "Thumbnail Image", name: "image_path", widget: "image" }
+      - {label: "Body", name: "body", widget: "markdown", default: "{% include gallery %}"}
     
   - name: "_events"
     label: "Events"
@@ -54,14 +55,14 @@ collections:
         fields: 
           - {label: "Banner Image", name: "image", widget: "image" }
           - {label: "Teaser Image", name: "teaser", widget: "image" }
-
       - label: "Gallery(Optional)"
         name: "gallery"
         required: false
         label_singular: Image
         collapsed: true
+        hint: "Insert this code somewhere in main body: {% include gallery %}"
         widget: "list"
         fields:
-          - { label: "Image Thumbnail", name: "url", widget: "image", required: false }
-          - { label: "Image", name: "image_path", widget: "image" }
-      - {label: "Body", name: "body", widget: "markdown"}
+          - { label: "Main Image", name: "url", widget: "image", required: false }
+          - { label: "Thumbnail Image", name: "image_path", widget: "image" }
+      - {label: "Body", name: "body", widget: "markdown", default: "{% include gallery %}"}
