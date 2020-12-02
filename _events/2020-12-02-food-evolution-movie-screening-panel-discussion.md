@@ -3,8 +3,8 @@ layout: single
 title: "Food Evolution: Movie Screening & Panel Discussion"
 date: 2018-02-11T21:52:12.465Z
 header:
-  image: /assets/images/SALI Revise B-01.png
-  teaser: /assets/images/SALI Revise B-01.png
+  image: /assets/images/food-evolution-squashed-GMO-organic-art.jpg
+  teaser: /assets/images/food-evolution-squashed-GMO-organic-art.jpg
 gallery: []
 ---
 On Sunday, February 11, 2018, we co-hosted an event with [Cold Spring Harbor Laboratory](https://www.cshl.edu/) to feature the new documentary called [Food Evolution](https://www.foodevolutionmovie.com/). The film viewing was followed by a panel discussion with plant scientists David Jackson, Ph.D., Zachary Lippman, Ph.D., Ullas Pedmale, Ph.D., and Doreen Ware, Ph.D. at the Cinema Arts Centre, in Huntington, NY.
