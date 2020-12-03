@@ -5,7 +5,7 @@ backend:
   base_url: https://foam-pointy-woolen.glitch.me # change this to your OAuth server
   
 publish_mode: editorial_workflow
-media_folder: /assets/images/events/2017/ask-the-scientists
+media_folder: /assets/images/events/2017/eastern-li-mini-maker-faire
 collections:
   - name: "_posts"
     label: "Posts"
