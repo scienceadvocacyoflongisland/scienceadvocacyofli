@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Powering Progress With Perry Gershon: A Science, Medical & Technology Forum"
+collection: events
 date: 2018-06-16
 header:
   image: /assets/images/events/2018/powering-progress-perry-gershon/IMG_3678.jpg

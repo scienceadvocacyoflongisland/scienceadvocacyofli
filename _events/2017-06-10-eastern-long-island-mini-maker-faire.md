@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Eastern Long Island Mini Maker Faire
+collection: events
 date: 2017-06-10T15:11:46.889Z
 header:
   image: /assets/images/events/2017/eastern-li-mini-maker-faire/Eastern-Long-Island-Mini-Maker-Faire.jpg

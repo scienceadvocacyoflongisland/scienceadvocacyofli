@@ -1,6 +1,7 @@
 ---
 layout: single
 title: Ask the Scientists
+collection: events
 date: 2017-03-26
 header:
   image: /assets/images/events/2017/ask-the-scientists/ask-the-scientists-image.jpg
