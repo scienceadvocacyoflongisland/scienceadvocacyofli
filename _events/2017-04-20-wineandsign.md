@@ -3,13 +3,12 @@ layout: single
 title: Wine and Sign
 collection: events
 date: 2017-04-20
+header:
+  teaser: /assets/images/events/2017/wine-and-sign/IMG-2679-34450470145.jpg
+  image: /assets/images/events/2017/wine-and-sign/wine-and-sign-group.jpg
 ---
-Wine and Sign
-=============
 
 April 20, 2017
-
-![Wine and Sign participants](/assets/images/events/2017/wine-and-sign/wine-and-sign-group.jpg)
 
 On April 20, we had fun with a purpose. We were hosted by the Suffolk Y Jewish Community Center where we made signs for the upcoming March for Science.
 

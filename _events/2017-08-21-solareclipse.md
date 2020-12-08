@@ -3,13 +3,12 @@ layout: single
 title: U.S. Solar Eclipse
 collection: events
 date: 2017-08-21
+header:
+  image: /assets/images/events/2017/us-solar-eclipse/Justin-Starr-21122297.jpg
+  teaser: /assets/images/events/2017/us-solar-eclipse/Justin-Starr-20988447.jpg
 ---
-U.S. Solar Eclipse
-==================
 
 August 21, 2017
-
-[![photo by Justin Starr](/assets/images/events/2017/us-solar-eclipse/thumb-Justin-Starr-21122297.jpg)](/assets/images/events/2017/us-solar-eclipse/Justin-Starr-21122297.jpg)
 
 By Justin Starr
 

@@ -3,13 +3,10 @@ layout: single
 title: Long Island Drinking Water
 collection: events
 date: 2017-11-03
+header:
+  teaser: /assets/images/events/2017/water/thumb/sali-water-008.jpg
+  image: /assets/images/events/2017/water/sali-water-008.jpg
 ---
-
-Science Policy Forum:
----------------------
-
-Long Island Drinking Water
-==========================
 
 November 3, 2017
 
@@ -23,7 +20,7 @@ From left to right: Jeremiah Bautista, Sarah Deonarine, Dr. Miriam Fein, Caitlyn
 
 By Caitlyn Cardetti
 
-![Science Policy](/assets/images/events/2017/water/science-policy-water.jpg)The importance of the quality and safety of the water we drink cannot be understated. Here on Long Island, the water that flows from each and every faucet in our homes comes solely from underground aquifers stored right beneath our feet. This makes protecting our aquifers here on Long Island critical for our community's well-being. The organization [Science Advocacy Long Island (SALI)](/) recently hosted a public forum on November 3rd on ensuring water quality on LI, bringing together both local policy makers and scientists.
+The importance of the quality and safety of the water we drink cannot be understated. Here on Long Island, the water that flows from each and every faucet in our homes comes solely from underground aquifers stored right beneath our feet. This makes protecting our aquifers here on Long Island critical for our community's well-being. The organization [Science Advocacy Long Island (SALI)](/) recently hosted a public forum on November 3rd on ensuring water quality on LI, bringing together both local policy makers and scientists.
 
 This non-partisan forum was hosted at the [School of Marine and Atmospheric Sciences](https://www.somas.stonybrook.edu/) at [Stony Brook University](http://www.stonybrook.edu/) and included [NY Assemblyman Steve Englebright](http://assembly.state.ny.us/mem/Steve-Englebright) and [Town of Brookhaven Supervisor Edward P. Romaine](https://www.brookhavenny.gov/Elected-Officials/Supervisor). Both reflected on how current and past policy effects our water quality. Supervisor Romaine highlighted the [Long Island 208 Study on groundwater](https://www.brookhavenny.gov/portals/0/documents/planning/LI%20208%20Study/Long%20Island%20208%20Study.pdf) that detailed connections between LI's land use, drinking water quality, and surface water quality, and how 40 years later, we still have not implemented all the recommendations of that study. He then discussed how Hurricane Sandy brought attention to marsh loss and nitrogen pollution in our water. Relief funds from Sandy helped fund the [New York State Center for Clean Water Technology](http://www.stonybrook.edu/cleanwater/) at Stony Brook University.
 

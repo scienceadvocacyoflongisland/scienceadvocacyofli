@@ -3,15 +3,16 @@ layout: single
 title: Why Should Scientists Run for Office?
 collection: events
 date: 2017-04-30
+header:
+  teaser: /assets/images/events/2017/why-should-scientits-run-for-office/flyer.jpg
+  image: https://www.scienceadvocacyli.org/assets/images/events/2017/why-should-scientits-run-for-office/IMG-1377.jpg
 ---
-Why Should Scientists Run for Office?
-=====================================
 
 April 30, 2017
 
 On April 30, at a SALI hosted forum held at Panera Bread in Port Jefferson, Dr. Elaine DiMasi discussed with event attendees how her scientific expertise and unique skill set would be an asset in government, and why this is especially important on Long Island.
 
-![Elaine-DeMasi](/assets/images/events/2017/why-should-scientits-run-for-office/Elaine-DeMasi.png)
+![Elaine-DeMasi](/assets/images/events/2017/why-should-scientits-run-for-office/Elaine-DeMasi.jpg)
 
 **Dr. Elaine DiMasi** is a Long Island-based Physicist considering a run for the NY 1st Congressional District.
 
