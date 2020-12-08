@@ -23,9 +23,3 @@ SALI is a non-partisan group and does not endorse a political party or candidate
 
 [![](/assets/images/events/2017//why-should-scientits-run-for-office/thumb-IMG-1376.jpg)](/assets/images/events/2017/why-should-scientits-run-for-office/IMG-1376.jpg) [![](/assets/images/events/2017//why-should-scientits-run-for-office/thumb-IMG-1377.jpg)](/assets/images/events/2017/why-should-scientits-run-for-office/IMG-1377.jpg)
  [![](/assets/images/events/2017//why-should-scientits-run-for-office/thumb-IMG-1381.jpg)](/assets/images/events/2017/why-should-scientits-run-for-office/IMG-1381.jpg) [![](/assets/images/events/2017//why-should-scientits-run-for-office/thumb-IMG-1385.jpg)](/assets/images/events/2017/why-should-scientits-run-for-office/IMG-1385.jpg)
-
-©
-
-Science Advocacy of Long Island
-
-[](mailto:scienceadvocacyli@gmail.com "Email Us") [](https://www.facebook.com/SciAdvLI "Find Us on Facebook") [](https://twitter.com/SciAdvLI/ "Follow Us on Twitter") [](https://www.youtube.com/channel/UCenQnnpxJDQncPzn0jq9yEQ "Watch Us on YouTube") [](https://www.instagram.com/sciadvli/ "Follow Us on Twitter")
