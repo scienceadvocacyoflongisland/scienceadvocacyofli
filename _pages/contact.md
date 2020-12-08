@@ -2,7 +2,7 @@
 permalink: /contact/
 title: "Contact Us"
 header:
- image: /assets/images/contactUsSplash.png
+ image: /assets/images/contactUsSpash.png
  caption: "Courtesy [NASA/JPL-Caltech.](https://www.jpl.nasa.gov)"
  
 ---
