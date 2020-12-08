@@ -7,19 +7,6 @@ header:
   teaser: /assets/images/events/2017/water/thumb/sali-water-008.jpg
   image: /assets/images/events/2017/water/sali-water-008.jpg
 ---
-
-November 3, 2017
-
-![](/assets/images/events/2017/water/science-policy-water-hero.jpg)
-
-From left to right: NY Assemblyman Steve Englebright, Dr. Arjun Venkatesan, Ronald Busciolano, Dr. Chris Gobler, Town of Brookhaven Supervisor Edward P. Romaine
-
-![](/assets/images/events/2017/water/science-policy-water-hero2.jpg)
-
-From left to right: Jeremiah Bautista, Sarah Deonarine, Dr. Miriam Fein, Caitlyn Cardetti, Rob Rainer
-
-By Caitlyn Cardetti
-
 The importance of the quality and safety of the water we drink cannot be understated. Here on Long Island, the water that flows from each and every faucet in our homes comes solely from underground aquifers stored right beneath our feet. This makes protecting our aquifers here on Long Island critical for our community's well-being. The organization [Science Advocacy Long Island (SALI)](/) recently hosted a public forum on November 3rd on ensuring water quality on LI, bringing together both local policy makers and scientists.
 
 This non-partisan forum was hosted at the [School of Marine and Atmospheric Sciences](https://www.somas.stonybrook.edu/) at [Stony Brook University](http://www.stonybrook.edu/) and included [NY Assemblyman Steve Englebright](http://assembly.state.ny.us/mem/Steve-Englebright) and [Town of Brookhaven Supervisor Edward P. Romaine](https://www.brookhavenny.gov/Elected-Officials/Supervisor). Both reflected on how current and past policy effects our water quality. Supervisor Romaine highlighted the [Long Island 208 Study on groundwater](https://www.brookhavenny.gov/portals/0/documents/planning/LI%20208%20Study/Long%20Island%20208%20Study.pdf) that detailed connections between LI's land use, drinking water quality, and surface water quality, and how 40 years later, we still have not implemented all the recommendations of that study. He then discussed how Hurricane Sandy brought attention to marsh loss and nitrogen pollution in our water. Relief funds from Sandy helped fund the [New York State Center for Clean Water Technology](http://www.stonybrook.edu/cleanwater/) at Stony Brook University.
@@ -30,7 +17,15 @@ Our final two panelists were [Dr. Chris Gobler](https://www.somas.stonybrook.edu
 
 Dr. Miriam Fein created SALI with the mission to bring together scientists and supporters of science from all backgrounds to advocate for policies supported by evidence-based research and to encourage public engagement with science. In effort to accomplish this mission, SALI will be hosting a series of public forums on health, environmental, and science policy issues. This inaugural forum was well-received by the community, and in attendance were Suffolk County legislators Kara Hahn and Leslie Kennedy, Suffolk County Comptroller John M. Kennedy Jr., and Dr. Elaine DiMasi, a 2018 candidate for Congress in NY-1. [The scientific talks are available on SALI's YouTube channel](https://www.youtube.com/channel/UCenQnnpxJDQncPzn0jq9yEQ/videos).
 
- 
+![](/assets/images/events/2017/water/science-policy-water-hero.jpg)
+
+From left to right: NY Assemblyman Steve Englebright, Dr. Arjun Venkatesan, Ronald Busciolano, Dr. Chris Gobler, Town of Brookhaven Supervisor Edward P. Romaine
+
+![](/assets/images/events/2017/water/science-policy-water-hero2.jpg)
+
+From left to right: Jeremiah Bautista, Sarah Deonarine, Dr. Miriam Fein, Caitlyn Cardetti, Rob Rainer
+
+By Caitlyn Cardetti
 
 [Watch a recording of the forum »](https://www.youtube.com/watch?v=vP4Qp5rWc-k)   [View the Forum Flier »](/assets/images/events/2017/water/science-policy-water-flier.pdf)
  [Dr. Christopher Gobler's Presentation »](https://www.youtube.com/watch?v=vP4Qp5rWc-k)   [Dr. Arjun Venkatesan's Presentation »](https://www.youtube.com/watch?v=3_6YG5FTaq8)   [Ronald Busciolano's Presentation »](https://www.youtube.com/watch?v=JmOy2X7eQBE)

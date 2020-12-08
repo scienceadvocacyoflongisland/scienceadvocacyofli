@@ -3,7 +3,6 @@ permalink: /news/
 layout: home
 title: "SALI in the News"
 entries_layout: grid
-
 classes: wide
 
 header:

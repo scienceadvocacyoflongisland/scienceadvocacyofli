@@ -8,10 +8,6 @@ header:
   teaser: /assets/images/events/2017/us-solar-eclipse/Justin-Starr-20988447.jpg
 ---
 
-August 21, 2017
-
-By Justin Starr
-
 On Sunday, August 11, I drove down from Rhode Island (where my band had been playing for the weekend) to Secaucus, NJ, picked up my father, and continued to Portsmouth, TN — all in all, a 14-hour drive. Besides giving us a welcome break after an incredibly long drive, this allowed us to choose somewhat on-the-fly where to end up the next day for totality. We were able to assess weather predictions on the morning of the 12th and go where we thought we had the best odds. That took us continuing in a southwest trajectory to ultimately end in Sweetwater, TN. We found a hotel that was selling parking lot spaces for \$30 a piece. They had a nice stretch of grass in front of the hotel where people were already setting up lawn chairs, telescopes, and cameras.
 
 I got to work setting up a few different pieces of equipment: an 80mm f/5 refractor with a glass solar filter on it, mated with a Canon 1000d for close-ups of the Sun; a Canon 6D equipped with a 24-70/4L lens and a variable neutral density filter for wide shots incorporating the landscape; and GoPro filming a time-lapse of the event. I had some technical/equipment difficulties but in the end, I was able to collect all the data I sought out.
@@ -23,6 +19,8 @@ I'm an astrophotographer. I'm used to taking pictures of things like nebulae or 
 It was so seemingly supernatural, and yet not only completely natural, but 100% predictable. It was so otherworldly, and yet completely of this world. I can say this with certainty: After having seen one total solar eclipse, one is not enough. I don't know if I can wait until 2024 for the next one in the US. And Argentina is looking fairly inviting for 2019...
 
 Justin Starr lives in Huntington, NY. By day, Justin is a middle school chorus teacher. He also teaches private music lessons, is an actively gigging guitar player, photographer, and amateur astronomer.
+
+By Justin Starr
 
 ### Photos from the August 21, 2017 Solar Eclipse
 

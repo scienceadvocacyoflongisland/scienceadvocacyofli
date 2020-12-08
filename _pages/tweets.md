@@ -2,7 +2,7 @@
 permalink: /tweets/
 title: "Twitter Timeline"
 header: 
-  image: /assets/images/tweets.png
+  image: /assets/images/tweetsSplash.png
   caption: "Photo Credit: [Unsplash](https://unsplash.com/photos/Lh_sFxD8AkI)"
 ---
 
