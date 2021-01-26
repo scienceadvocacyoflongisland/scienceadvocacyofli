@@ -57,7 +57,6 @@ collections:
           - {label: "Banner Image", name: "image", widget: "image" }
           - {label: "Teaser Image", name: "teaser", widget: "image" }
         required: false
-        required: false
       - label: "Gallery(Optional)"
         name: "gallery"
         required: false
