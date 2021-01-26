@@ -21,9 +21,11 @@ collections:
       - label: "Banner and teaser images"
         name: "header"
         widget: "object"
+        required: false
         fields: 
           - {label: "Banner Image", name: "image", widget: "image", required: false }
           - {label: "Teaser Image", name: "teaser", widget: "image", required: false }
+        
 
       - label: "Gallery(Optional)"
         name: "gallery"
@@ -52,6 +54,7 @@ collections:
       - label: "Banner and teaser images"
         name: "header"
         widget: "object"
+        requried: false
         fields: 
           - {label: "Banner Image", name: "image", widget: "image", required: false }
           - {label: "Teaser Image", name: "teaser", widget: "image", required: false }
