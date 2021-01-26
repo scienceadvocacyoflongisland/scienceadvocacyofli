@@ -22,9 +22,8 @@ collections:
         name: "header"
         widget: "object"
         fields: 
-          - {label: "Banner Image", name: "image", widget: "image" }
-          - {label: "Teaser Image", name: "teaser", widget: "image" }
-        required: false
+          - {label: "Banner Image", name: "image", widget: "image", required: false }
+          - {label: "Teaser Image", name: "teaser", widget: "image", required: false }
 
       - label: "Gallery(Optional)"
         name: "gallery"
@@ -54,9 +53,9 @@ collections:
         name: "header"
         widget: "object"
         fields: 
-          - {label: "Banner Image", name: "image", widget: "image" }
-          - {label: "Teaser Image", name: "teaser", widget: "image" }
-        required: false
+          - {label: "Banner Image", name: "image", widget: "image", required: false }
+          - {label: "Teaser Image", name: "teaser", widget: "image", required: false }
+        
       - label: "Gallery(Optional)"
         name: "gallery"
         required: false
